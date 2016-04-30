@@ -1,3 +1,0 @@
-[submodule "slugify"]
-	path = slugify
-	url = git@github.com:cocur/slugify.git
